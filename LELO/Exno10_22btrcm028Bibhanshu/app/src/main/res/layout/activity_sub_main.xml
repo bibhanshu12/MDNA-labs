@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Android 6.0 or Marshmallow is high in the news these
+days. These headlines about Marshmallow are making people think whether their
+current Android device will be upgraded to the latest version or they will be
+left behind. A basic measure would be that most of the devices which came
+with Android 5.0 (Lollipop) out of the box will be updated to the latest
+Android 6.0. This post tries to list up the devices for which Android 6.0
+update is imminent."
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+</RelativeLayout>
